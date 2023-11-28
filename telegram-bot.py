@@ -47,7 +47,7 @@ class MyBot:
 
         self.bot.send_sticker(message.chat.id, sticker="CAACAgQAAxkBAAECKm1lZIpxEdo0ULeVLnqtgQ75_AF43AAC9wwAAtBU0VAJXmbeRL2ROjME", reply_markup=markup)
 
-
+    # test comment
 
 
 if __name__ == "__main__":
